@@ -8,9 +8,9 @@ import sys
 
 warnings.simplefilter("ignore")
 
-# trainPath = 'C:/Users/Rishav-PC/Desktop/Spring18/ML-Anurag/Assignment2/training_set.csv'
-# testPath = 'C:/Users/Rishav-PC/Desktop/Spring18/ML-Anurag/Assignment2/test_set.csv'
-# validationPath = 'C:/Users/Rishav-PC/Desktop/Spring18/ML-Anurag/Assignment2/validation_set.csv'
+# trainPath = 'C:/training_set.csv'
+# testPath = 'C:/test_set.csv'
+# validationPath = 'C:/validation_set.csv'
 # pruneFactor = 0.05
 
 if(len(sys.argv) != 5):
